@@ -11,6 +11,14 @@
 
 ---
 
+## 🌐 Live Deployments
+
+- **🚀 Live Web App (Frontend)**: [https://client-omega-woad-15.vercel.app](https://client-omega-woad-15.vercel.app)
+- **⚡ Production API (Backend)**: [https://collabdocs-server-h57s.onrender.com](https://collabdocs-server-h57s.onrender.com)
+- **📖 API Documentation (Swagger UI)**: [https://collabdocs-server-h57s.onrender.com/api/docs](https://collabdocs-server-h57s.onrender.com/api/docs)
+- **❤️ Live Health Check**: [https://collabdocs-server-h57s.onrender.com/health](https://collabdocs-server-h57s.onrender.com/health)
+- **🗄️ Managed Database**: Supabase PostgreSQL
+
 ## 🌟 Key Features
 
 - **Real-Time CRDT Multi-User Collaboration**: Sub-50ms peer synchronization powered by Yjs Conflict-Free Replicated Data Types (`y-websocket`, `y-protocols`).
@@ -175,9 +183,10 @@ npm test
 
 ## 📖 API Documentation
 
-Interactive Swagger OpenAPI 3.0 documentation is available when running the backend:
-- **Swagger UI**: [http://localhost:5000/api/docs](http://localhost:5000/api/docs)
-- **Health Check**: [http://localhost:5000/health](http://localhost:5000/health)
+Interactive Swagger OpenAPI 3.0 documentation is available at:
+- **Live Swagger UI**: [https://collabdocs-server-h57s.onrender.com/api/docs](https://collabdocs-server-h57s.onrender.com/api/docs)
+- **Local Swagger UI**: [http://localhost:5000/api/docs](http://localhost:5000/api/docs)
+- **Production Health Check**: [https://collabdocs-server-h57s.onrender.com/health](https://collabdocs-server-h57s.onrender.com/health)
 
 ---
 
